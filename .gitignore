@@ -8,3 +8,5 @@
 *~
 *.bk
 _*.stl
+
+/.direnv/
